@@ -1,0 +1,48 @@
+.title {
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 100;
+}
+
+html {
+    background-image: url(https://cdn.discordapp.com/attachments/943256007142944788/1099522678957801502/image.png);
+    background-blend-mode: soft-light;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    border: 5px outset rgb(37, 207, 88);
+ 
+}
+
+div {
+    background-color: rgb(193, 114, 230);
+    width: 300px;
+    border: 10px lavenderblush;
+    padding: 50px;
+    margin: 20px;
+    color:whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24;
+}
+.dfi {
+    font-size: 15.615;
+}
+
+.github {
+    width:25%;
+    height: 25%;
+}
+
+.fillerimg1 {
+    width: 350px;
+    height: 250px;
+}
+
+.footer {
+    color:whitesmoke;
+    font-family: monospace;
+    font-size: 16;
+}
